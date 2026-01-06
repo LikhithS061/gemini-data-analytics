@@ -1,4 +1,4 @@
-# Local Document Analysis Chatbot
+# Local Document Analysis Ai
 
 This project is a web application featuring a chatbot that can analyze documents you upload. You can ask questions about the content of the uploaded file, and the chatbot will use the Gemini API to provide answers based on the document's data.
 
